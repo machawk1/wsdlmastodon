@@ -8,6 +8,7 @@ A list of WS-DLers and their (or lack of*) Mastodon accounts
 * Shawn M. Jones - [@shawnmjones@hachyderm.io](https://hachyderm.io/@shawnmjones)
 * Mat Kelly - [@machawk1@digipres.club](https://digipres.club/@machawk1)
 * Martin Klein - [@martinklein@mastodon.online](https://mastodon.online/@martinklein)
+* Michael L. Nelson - [@phonedudemln.bsky.social@bsky.brid.gy](https://digipres.club/@phonedudemln.bsky.social@bsky.brid.gy)
 * Michele C. Weigle - [@weiglemc@digipres.club](https://digipres.club/@weiglemc)
 
 \* (soon)
